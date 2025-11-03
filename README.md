@@ -1,2 +1,2 @@
-# Programaci-n-Din-mica
+# Programación Dinámica
 Examen primer parcial, con lenguaje Julia. 
